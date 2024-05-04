@@ -1,0 +1,1001 @@
+Unnamed: 0,full_path,class_name,abnormal
+13000,df908402799fe45e0bac05940e1fcd9e.png,No finding,1
+13001,c35bdb33fed2ba6646c4c5f89ed4ef84.png,No finding,1
+13002,e8e1f4db5ec4c5ccb4a45c88a2f712b3.png,No finding,1
+13003,e1aabe79bf5c77ec1c14fde6f7d7b786.png,No finding,1
+13004,233259480409e87c9e714c425450c333.png,No finding,1
+13005,113274a4ca3c2e72b7ff1bd3ce5006b6.png,Cardiomegaly|Other lesion|Aortic enlargement,0
+13006,50723f9ca4e3cc4b33cac5970f8c442f.png,Cardiomegaly|Aortic enlargement,0
+13007,5195e8441de8c3c3651527e293a6bbfc.png,No finding,1
+13008,2a8b9d2e09ada919e6ce45cb6c451d21.png,No finding,1
+13009,de3ff6456636d2002ddf7f3cb2cc1882.png,No finding,1
+13010,8af35278acf65c3b634ae6f12357a2a7.png,No finding,1
+13011,b3cf4f7aab7e62964dd965e768178e32.png,No finding,1
+13012,e18a21af6b22a09f4cbd7f3e60170f77.png,No finding,1
+13013,2fd65c3d2a4c8d35293784167c7a2348.png,Lung Opacity|Nodule/Mass,0
+13014,cd305d9b500713fd651db32a2416bad1.png,No finding,1
+13015,cdb58aff8cbfb6f9e23e3b589b91cc2a.png,No finding,1
+13016,5f149875df7d2b5e00fb50b67b576d71.png,No finding,1
+13017,706134f7cb42a91aaa6d858852de518b.png,No finding,1
+13018,d51a2871b8b9297299c01f806f111354.png,No finding,1
+13019,f92074142445092eb77d2e0c0a15e973.png,No finding,1
+13020,fd085c568136546c64462ede72b35e87.png,No finding,1
+13021,1b03ffc81d549227fc6c640d9a4833f6.png,No finding,1
+13022,9c332e9660d87228aa9d928049230c90.png,No finding,1
+13023,fa0ae4ec6e3d740de70401dd7b0652ee.png,No finding,1
+13024,d0868cb4499cc428cd88d381ce85ec73.png,No finding,1
+13025,07a5129d03938c17811a621b5665bb04.png,No finding,1
+13026,0710fe2b90ee68e54b84e795abb018df.png,Cardiomegaly|Pleural thickening|Aortic enlargement,0
+13027,26169b03fe9028c5defe124cfd5b5f7f.png,No finding,1
+13028,963e75d60b45a08a1de456d383759167.png,Pleural thickening,0
+13029,4761fc19be5420015299df70e3d788de.png,No finding,1
+13030,41b0630c88a59aba14b1ec69d5f55c55.png,No finding,1
+13031,dc273e469e45a0a1884d581e2bf70bca.png,No finding,1
+13032,178ecfdb6d5647f186aad87613e35c9d.png,No finding,1
+13033,bbac60d6c7695f5eeccb56cb56336f6d.png,Pulmonary fibrosis|ILD|Cardiomegaly|Lung Opacity|Other lesion|Nodule/Mass|Aortic enlargement,0
+13034,6cbb600a8aaf873bb91b799c31c84a2b.png,No finding,1
+13035,d16b67fee07971da41a3d08707ccd864.png,Cardiomegaly|Lung Opacity|Pulmonary fibrosis,0
+13036,cf8880232b3dcf3493a2b19ee2ed5167.png,No finding,1
+13037,75c70312985c506280ee77675cc07a1e.png,No finding,1
+13038,16041095041e6b5afb13e8da17bf45b4.png,Cardiomegaly|Pleural thickening|Aortic enlargement,0
+13039,e881cb07c2bc435ff59e27faa676b70f.png,No finding,1
+13040,2cd31f05e3d0a2ebdf33e7a90fdc95ac.png,Cardiomegaly,0
+13041,0d55bc3019a8a34648e08e27744a7f6c.png,No finding,1
+13042,3b887c0550e9722c9b86b7c22ad09e11.png,Lung Opacity|Other lesion|Pleural effusion|Pleural thickening|Aortic enlargement,0
+13043,9c6dd02f9203ff0c78cedc7622c90f77.png,No finding,1
+13044,ccfda43a5267e0aa923d8a199baafbd2.png,No finding,1
+13045,c347b27288c20cebef8142328ed024ba.png,No finding,1
+13046,120d75c31017768a3d4e4b8de6f31239.png,No finding,1
+13047,35b16ece367c122526fba693096b367c.png,No finding,1
+13048,7acf032984e0dde6b0cce4a429c1c8ee.png,No finding,1
+13049,e4ef5698e1570bed158879d7b5ab20f7.png,Cardiomegaly|Aortic enlargement,0
+13050,b2d0f276873680680cd8193524a3f124.png,No finding,1
+13051,4cdb45e6b70df67e833f2112abc8b399.png,No finding,1
+13052,2ebb05b4c603d590854c621fa4f1fd5c.png,Lung Opacity|Nodule/Mass|Other lesion|Pleural effusion|Atelectasis,0
+13053,9ef3da0f8675575915ce438d90115fb2.png,No finding,1
+13054,2e4419b8c1f923cff2781be045f4e0d5.png,No finding,1
+13055,0a61578e3d77b1cebc86d13a41efa31b.png,Pleural thickening|Other lesion|Aortic enlargement,0
+13056,835b2647ac2c4168fd8ee19431cfb47b.png,Cardiomegaly|Aortic enlargement,0
+13057,21a68692a84d7a71dfb1bb0c76005119.png,No finding,1
+13058,4f1aea7b3a7d3d3af2a5367565bc4f37.png,Infiltration|Cardiomegaly|Aortic enlargement|ILD,0
+13059,c7d78838fc91d92a524b1fce61350c2c.png,No finding,1
+13060,89d4a88b244a0a0d67c9aae4f597f6fa.png,No finding,1
+13061,6fb18f9632ac81de72e1970e26346f24.png,No finding,1
+13062,02fb30c1dd4e6ba448c8bbe4685b77ae.png,No finding,1
+13063,b649709e399f4ee636dec128f3122ffe.png,No finding,1
+13064,65e5a2cd5b5b333cce079db1ec116309.png,No finding,1
+13065,4f1567ce71208934844b924e153aa197.png,No finding,1
+13066,8907ce5324b2401c4a07cd8a5e0108c1.png,No finding,1
+13067,de84a6068cd81f8dc43954fbd101fa75.png,No finding,1
+13068,c9ab0417e432df9f26a815c5bb45a5be.png,No finding,1
+13069,cce1682c4fbfc0f04fb84136651a3813.png,Pleural thickening|Other lesion|Calcification|Aortic enlargement,0
+13070,e5dbb0754f79f54cf9c052355d63dfff.png,No finding,1
+13071,3e36fcbd1b769a30a2c54eb1c0116ace.png,No finding,1
+13072,91fa315ce11cbf3610f1f05d9e47cc1f.png,No finding,1
+13073,005be26a68485912e007a3703f43d60a.png,No finding,1
+13074,46e487b18e0988c53bf9056bd3689a6d.png,Infiltration|Pulmonary fibrosis,0
+13075,27e113d3d158dbdd548b534c26164e55.png,Pulmonary fibrosis|ILD|Lung Opacity|Nodule/Mass|Other lesion|Pleural thickening,0
+13076,ac9d59d07dbe13164b9965b59eb7bcb0.png,No finding,1
+13077,aa48de908e9939352caca99f748748c5.png,No finding,1
+13078,7d7ebec69dcf4ec6e88f58b8eaf4e4df.png,No finding,1
+13079,7307f00233a2858176b4b8c93213d7de.png,Consolidation|Lung Opacity|Pneumothorax,0
+13080,3db6fe4d1f68fa30a995ea48f5077ba2.png,No finding,1
+13081,3b28cc5fd6c4d1e9cae948145a45d2a1.png,No finding,1
+13082,8c372c0f1adb6fb0b1a8d85ffe94fe3e.png,No finding,1
+13083,c11ee2ccaab6e2007b776878c1c06121.png,No finding,1
+13084,eb9f179b53d76de38f0430ae5b1646de.png,No finding,1
+13085,cefc99738c5307f12d9104f31ff2c1c4.png,Other lesion|Pulmonary fibrosis|Nodule/Mass|Aortic enlargement,0
+13086,0302ee5d111875b1ed05dd6630404c6d.png,No finding,1
+13087,287023c7ab66addffd057c667502e566.png,No finding,1
+13088,b27aac98cb0e07e2159a78c5075bf3e7.png,No finding,1
+13089,f5f0ce7c7c2a1958797bf900ede184fa.png,No finding,1
+13090,e1ba0e65d55cff798f5253a5bc108fd7.png,Cardiomegaly|Lung Opacity|Aortic enlargement,0
+13091,44340a3332c1364864dd4d9ae6fea977.png,No finding,1
+13092,ae6a018395ab7dde801216c8c2664930.png,No finding,1
+13093,708f9651e9cab82bd82df3fe70b56592.png,No finding,1
+13094,2ce046da31101c578df3349c36f325a1.png,Pleural thickening|Aortic enlargement|Pleural effusion,0
+13095,ef3577342a00289f6fccf26d6b61c7ac.png,Aortic enlargement,0
+13096,eb2fbabd1c9407a78bcca90e70c3a3ac.png,No finding,1
+13097,8e3006f8c3906fc969d4aa9aeb31f586.png,Cardiomegaly|Calcification,0
+13098,77835724cdfcfeb3509584375709ea03.png,No finding,1
+13099,b0a52e18d443efb28d082f0ae8e7b893.png,Consolidation|Cardiomegaly|Pleural effusion|Pleural thickening|Aortic enlargement,0
+13100,2c7eef26cb61745506f86460a3fffd7e.png,No finding,1
+13101,a800053782bc4277fac41658d5e72743.png,No finding,1
+13102,454d4b20bb55eb38f90fd51706531b9e.png,Lung Opacity|Nodule/Mass|Aortic enlargement,0
+13103,6476c8a4543ea0d637394d0a938fad16.png,No finding,1
+13104,b032ac7819acaa4f77832aea268c800a.png,No finding,1
+13105,9e8f6391c555e23d3dce029dfab115a6.png,No finding,1
+13106,66bbe3b0df8f9b8bda1f11d3adb5940a.png,No finding,1
+13107,9c0b694e2e4234c6dc7b6acde3251996.png,No finding,1
+13108,c1ca66539955f94f6dbd74fb5ba7208d.png,Pulmonary fibrosis|ILD,0
+13109,719182f814fc1a742e0fbc1a751f6af7.png,Cardiomegaly|Nodule/Mass|Other lesion|Aortic enlargement,0
+13110,d4ea25aa90608e4cac7b6c6679c7343b.png,No finding,1
+13111,f33c818324f7631eec51571396df362d.png,Cardiomegaly|Aortic enlargement,0
+13112,1ad2d9c6def81b7e8beacded24a06853.png,No finding,1
+13113,5d8aad3fbe2a422089ebf41678bda3ce.png,Lung Opacity|Pneumothorax|Pleural effusion,0
+13114,cc1708ee2d3ec540efa5ffa3bf04574f.png,No finding,1
+13115,8d3515e042b9f3e1384e693e61d0cbd2.png,No finding,1
+13116,0fb9235fdd9d442cb03f221a12e67d04.png,No finding,1
+13117,ee8667bf305060492f6cee7766e9fae1.png,No finding,1
+13118,abad0d103508405be6dceb70b2b3d5ec.png,Pleural thickening|Cardiomegaly|Aortic enlargement,0
+13119,db56d92cb8648d1bd80eff002eefdbf7.png,Pleural effusion|Lung Opacity|Nodule/Mass|Pulmonary fibrosis,0
+13120,d29e710527ad79b62590045f7a7dbc9a.png,No finding,1
+13121,f81f93687cba8415a59774bb7dce0d77.png,No finding,1
+13122,e613a63ea3e1262cd599a32571d11c2e.png,Cardiomegaly,0
+13123,eb268b0b19f47cf268626dafc1d6f45f.png,Cardiomegaly|Aortic enlargement,0
+13124,01a93e09220daa5b0316d426b701c76c.png,No finding,1
+13125,68c1e59d39af3592616bbb2937d61f6a.png,No finding,1
+13126,56a6d57292da3fb9cd59b65a7a01009a.png,No finding,1
+13127,edeef2dceeafd6d5ebe67880f2f9162c.png,Pulmonary fibrosis|Lung Opacity|Other lesion|Pleural thickening|Atelectasis,0
+13128,0b4c3cb187f7582fa482b8f0fded6bd7.png,Calcification|Pulmonary fibrosis|Lung Opacity|Infiltration|Aortic enlargement,0
+13129,baa01cd2f8ef7a1c64aa9b9861796cd0.png,No finding,1
+13130,46f3e01784f7de9a0ff240cbe85b55c5.png,No finding,1
+13131,6ea15719175fe67480dc337f5e3ebd8a.png,No finding,1
+13132,8004676ecf95af8cee446cbcd139a938.png,Cardiomegaly|Pulmonary fibrosis|Nodule/Mass|Aortic enlargement,0
+13133,23f29659e174d2c4651857bf304a5d75.png,Cardiomegaly|Calcification|Aortic enlargement,0
+13134,4942ccd86fa518186a5011d558e870a2.png,No finding,1
+13135,4f5576451eef7cb6cfc23195ce071f70.png,No finding,1
+13136,ebd651e0daa599792382d0f98e6c036a.png,No finding,1
+13137,5d62c79af0c0dfab5633ac80ef95d1bb.png,No finding,1
+13138,60777cca3cc074eab3f5793f9f54a694.png,No finding,1
+13139,892dc4c931965fd99bafff6f5d6da534.png,No finding,1
+13140,b7531cbe38186e2d9aeb1b5de83984b3.png,Pulmonary fibrosis|Other lesion|Pleural effusion|Pleural thickening|Aortic enlargement,0
+13141,ccd70de6ae7c5e8e3d4db38cbdbbfc21.png,No finding,1
+13142,a6b0aa30513d283981609465d2b9fd9a.png,No finding,1
+13143,5a80ba9453fa7f5833b04190e6f7dbf5.png,Cardiomegaly|Lung Opacity|Other lesion|Aortic enlargement,0
+13144,7e31692c6e1768cb226f77376dcd4e82.png,No finding,1
+13145,83472cba6b43e8393541d38f80ca3970.png,No finding,1
+13146,909a5b4b43c867a6626856a2851435d1.png,No finding,1
+13147,a3af933900637d1538ba1eb72232aafc.png,No finding,1
+13148,a070224b023a32b21d85b0b101dca7fd.png,No finding,1
+13149,33b032af243d6b7db06155b99964cbd2.png,Cardiomegaly|Aortic enlargement,0
+13150,0c684171749ce2c0c601b9d69b882edb.png,Pleural thickening|Other lesion|Cardiomegaly,0
+13151,63382fd6688255077d3e61f946fa8c35.png,Cardiomegaly|Aortic enlargement,0
+13152,7fbdcc98dcb6e88187cf7461af6d2d61.png,Pleural thickening|Lung Opacity|Aortic enlargement|Pulmonary fibrosis,0
+13153,ee387adc8e34dcbb696539dcbb626a9d.png,Pleural thickening|Other lesion|Calcification|Aortic enlargement,0
+13154,b17fa1439061ffd2a0b36e8acd83bc32.png,Other lesion|Aortic enlargement,0
+13155,b720e511bfdfb393b77a26c29fc8cd91.png,Pulmonary fibrosis|Lung Opacity|Other lesion|Pleural thickening|Aortic enlargement,0
+13156,1df1184c21fb2bc9b911e354fcd59cc9.png,No finding,1
+13157,f908ceca3f24d487d583b5530b127013.png,Cardiomegaly|Lung Opacity|Pleural thickening|Aortic enlargement,0
+13158,3aaf9082b2fc37d21d61ae532d3112d4.png,No finding,1
+13159,d0ce3b25bc23f6f6b59e916b509827c0.png,No finding,1
+13160,47c2ef865b87d097ec8ce82a112d05b0.png,No finding,1
+13161,44227b3ea199ef4a06524f5c843e2608.png,Pulmonary fibrosis|Cardiomegaly|Pleural effusion|Pleural thickening|Aortic enlargement,0
+13162,bec4e291198abaebcd62306321094d50.png,No finding,1
+13163,92f6c19c6e6f77b2c6307be6380815c0.png,No finding,1
+13164,dda11ab83bb90b6f8181a296da42b968.png,No finding,1
+13165,e599f41be58ccfc30931ace6f0623b1b.png,No finding,1
+13166,a44ecf486c9660b2a9e2fdd17cad9ad3.png,No finding,1
+13167,e9726af82377769bcba9c5e7f6317d26.png,No finding,1
+13168,798092282e85a62211d854529e2f121f.png,No finding,1
+13169,e87ee0d8a82849df6f6317b47478bfec.png,No finding,1
+13170,863827ae84bd3b17640ce459b0022d15.png,No finding,1
+13171,802d38d25aa72427102b3b92741b690b.png,No finding,1
+13172,5a3fda3d2b991124feb8f5e63a2f2b74.png,No finding,1
+13173,3dcd69d586c76d7ccee18e292742ff85.png,No finding,1
+13174,a0348415e6b96ae019627d01bf8e6e8c.png,No finding,1
+13175,9b3c46e22c6d7280065ddeaf9230d730.png,No finding,1
+13176,09a7d6ecaa44bfdb43371ad6f203ac93.png,No finding,1
+13177,0c10e24ffcce63d46228582367bc1377.png,No finding,1
+13178,1118706aafb9e28236dda9943e3bb924.png,No finding,1
+13179,eec6cd4968fc6a83f634ae757d13f277.png,No finding,1
+13180,47ef9b0009481d207e15dc4b31ab9c2f.png,No finding,1
+13181,dd3f313dcf91128fce20f302aa22c79d.png,No finding,1
+13182,f623f284f8033fcf52ff63d99448fddf.png,No finding,1
+13183,5b2e28bd44d10e3e10605d0d95ffba22.png,Infiltration|Pulmonary fibrosis|ILD|Lung Opacity|Pleural effusion|Pleural thickening,0
+13184,d673addf6e6cb1071177731309bdd89d.png,No finding,1
+13185,d32677062d9b64918b27c648d2da50d1.png,No finding,1
+13186,0d55ccb39234d5369ecd767186ef9127.png,No finding,1
+13187,0d40f562896c51b30af1949901fd2d69.png,No finding,1
+13188,40956f021a2759da665c4497ca71ea5c.png,Cardiomegaly|Aortic enlargement,0
+13189,dc363bc90641559fa4452b2e20ab41b1.png,No finding,1
+13190,6291013a8f1a5f36245784b7083d25d8.png,No finding,1
+13191,4524f9b0da0eb546173210ef937b583c.png,Pleural thickening|Other lesion|Pleural effusion,0
+13192,af16925c379e1cdfb07d11f68d85ec49.png,No finding,1
+13193,b0df2d378c04b59dbd0f7c20352c35e8.png,Consolidation|Lung Opacity|Aortic enlargement|Pleural effusion,0
+13194,21476d663b60a21dbde1d515375a8c3d.png,No finding,1
+13195,529d855ec524ddf484434d90da0e3f4a.png,Pulmonary fibrosis|Nodule/Mass|Other lesion|Pleural effusion|Pleural thickening|Aortic enlargement,0
+13196,0c5ff01c7bfb4362fcd98f36e555b08c.png,Consolidation|Pulmonary fibrosis|ILD|Lung Opacity|Nodule/Mass|Pleural thickening|Aortic enlargement,0
+13197,a8ca5feabfe90a8e8e0362edce19cab6.png,No finding,1
+13198,cc716360f3b793b50cf67ffc50dc1c65.png,No finding,1
+13199,ad298b98223eac646a4f2a596c8ec0f6.png,No finding,1
+13200,3a334de1df19d35fd8d303df42a90468.png,Aortic enlargement,0
+13201,15891351447c97274b4efda7d3c3cd5d.png,No finding,1
+13202,f0fdfbe1c649b4945039b3d70825eb20.png,No finding,1
+13203,4db952de1d3c2a13cc9d7bad1a7f1570.png,No finding,1
+13204,0e17c6df39f947b40b60d42c5dc68b71.png,No finding,1
+13205,7adf5af664497c8ca56c13068c211d0b.png,No finding,1
+13206,b3250e3784059a5b2cd42d54b57fa24a.png,No finding,1
+13207,7c3c78ed6e4353a39ddc2cbd6230dd54.png,Cardiomegaly|Aortic enlargement,0
+13208,6b7f82e8b5ca56e2d20538cb3ad40cba.png,No finding,1
+13209,4f7bafd7046a44b6759fec62979ca64d.png,No finding,1
+13210,823f25d87fd8839bf338b6d9a97722a4.png,Cardiomegaly|Pulmonary fibrosis|Aortic enlargement,0
+13211,d205caf408bce9af5b0302b767a3ebbd.png,No finding,1
+13212,a995b7251057480098c9c9d34b615b2a.png,Pleural thickening|Lung Opacity|Pneumothorax|Pleural effusion,0
+13213,463d469271e3702e7b2d772958dbfe72.png,No finding,1
+13214,427f538105c4b3e67683731e4cb6eacf.png,No finding,1
+13215,62d5ff9075d2b5857478fb2709314004.png,No finding,1
+13216,4fb44cbb42a74015b340e647234b30eb.png,No finding,1
+13217,3a15dabad355333b43c65c016ae555d7.png,No finding,1
+13218,1a386e3f372b4433590c8b80f4fe373d.png,No finding,1
+13219,c1488ee019d770c751f6340afdab5a2c.png,No finding,1
+13220,38d59aef0ecbc73f365767bc09692283.png,Pulmonary fibrosis|Lung Opacity|Nodule/Mass|Pleural thickening|Aortic enlargement,0
+13221,bbe03119e84db17f2cd765321e63ac8d.png,No finding,1
+13222,f04009cd2bc235cd6fb8753b609cfe43.png,No finding,1
+13223,639e53252ed92c51e57bede9afeb6d5d.png,No finding,1
+13224,487f2f5252187b5953745452b324bb63.png,No finding,1
+13225,9696f133b6337e31d8961638df6d89af.png,No finding,1
+13226,b562b9d70a50e0d5a4402f185527354b.png,No finding,1
+13227,c8623f6f7222da4f76be1d6ab830f7fb.png,No finding,1
+13228,803c1790b27119f7a38f2959198392cf.png,No finding,1
+13229,d46a63b662124927ce665a5dcae220b6.png,No finding,1
+13230,df1fd0c37d5f245799db4baf4af5256b.png,No finding,1
+13231,3607a4db624454ddc7be55ab40e00456.png,No finding,1
+13232,76bd6d60f495982df348eaf871cf2025.png,No finding,1
+13233,9be65912706ff1be275d796357999a33.png,No finding,1
+13234,fb49f0ac68ebc19772754e39d4a59329.png,No finding,1
+13235,73032fc093c0339da389399e3312c1b8.png,No finding,1
+13236,59d215990b0e15b66e129d47f1b34943.png,Pleural thickening|Atelectasis|Calcification|Pulmonary fibrosis,0
+13237,87c4e738629ba2dfbb78ea55247908f8.png,Pleural thickening|Lung Opacity|Cardiomegaly|Aortic enlargement,0
+13238,2377426fc941366d89d23c2d09d5b00f.png,No finding,1
+13239,3bcb9fcbaefb31d394e0ff848bbdd2b8.png,No finding,1
+13240,db87c0d448f759840500df5bfffd90c2.png,No finding,1
+13241,cb4e59a4ea704b0001de9a0602235d37.png,No finding,1
+13242,a4bb479ad1e617ee660120484af30947.png,No finding,1
+13243,d93f320722bd8a1dd8ed8f9be0a2d128.png,No finding,1
+13244,31384bfadfd80fc1699a6f37cffa6e89.png,No finding,1
+13245,9306d40fe3b77bd159c6ab92c0a306c8.png,Calcification|Pulmonary fibrosis,0
+13246,d47e444aea45df364c4a7cebc156e183.png,No finding,1
+13247,81545a6a71bbc9cb3d50ef6ba9ccaeaf.png,No finding,1
+13248,b7b84cc718930bb70aa2fdcb53cfb98e.png,Aortic enlargement,0
+13249,d14f7d9469a5cdf6a60feea8f190f38d.png,Consolidation|Lung Opacity|Pneumothorax|Pleural effusion,0
+13250,5b7ba0034089bea970f18e936007bf1c.png,No finding,1
+13251,3e5c0424caa46a69a36024deb828d5de.png,Pleural thickening|Aortic enlargement,0
+13252,17bf6589a34c41b8ae38e4942e70f92d.png,No finding,1
+13253,879813e530746de2e2fbbfcded4c7804.png,No finding,1
+13254,077c02e3854ba35e3279af36e518ff3c.png,No finding,1
+13255,1d730f10402fbb1de01aa617b80a8242.png,Pneumothorax|Other lesion|Pleural effusion|Pleural thickening|Aortic enlargement,0
+13256,1516651227a420f879b4cea1500ee7db.png,Cardiomegaly|Aortic enlargement,0
+13257,8b79646aeafb4629d7fe321ffda41cc2.png,No finding,1
+13258,5ec026b093ebe102c90cc6d46e224cc7.png,No finding,1
+13259,cbe8f7bfbd743675fbb4e5c5995ed17d.png,No finding,1
+13260,4a85256607360f9c4c48fa9030f9d123.png,No finding,1
+13261,aa84f25fcbe7ca4ff31053a0a7de0f9a.png,Cardiomegaly|Aortic enlargement,0
+13262,7b403823ee9765c50c4f663e5126b235.png,No finding,1
+13263,ef30e130741319854177df9c125002d4.png,No finding,1
+13264,424ad76d9a27d9430ced5f6f6f81bfbc.png,No finding,1
+13265,271f9008a6ac0c2fbed2ee6d40ff8750.png,Consolidation|ILD|Pleural thickening|Other lesion|Pleural effusion|Infiltration,0
+13266,53e2a10eb9969b0e336a51d11dda17f9.png,Infiltration|Pulmonary fibrosis|Lung Opacity|Pleural thickening|Atelectasis,0
+13267,8e506a2c5a4a64624770f56bd56fe684.png,Nodule/Mass,0
+13268,4972b3b12340e6f5b302c45ac60a1f75.png,Pleural thickening,0
+13269,cfc654ccfba7724e8da6d1881ef1aca8.png,No finding,1
+13270,8434de3377a80db9a650dbbd29b96ba9.png,No finding,1
+13271,33fbdb351c16ce9efa9e9ef68bad8b6b.png,No finding,1
+13272,1d0e350326d513628bb149c62edb2492.png,No finding,1
+13273,397b7968bbdf2db72e34625ad8e874c2.png,Pulmonary fibrosis|Lung Opacity|Pleural effusion,0
+13274,b576400860f1e271b820f959e8b4b9b8.png,Cardiomegaly|Aortic enlargement,0
+13275,ce0b06b7b109d33a368542d63626c342.png,No finding,1
+13276,b37f802a65284d671670bc0d8229ef4b.png,No finding,1
+13277,ba46dcb445340df33566b52d7192ab6e.png,Pulmonary fibrosis|Lung Opacity|Other lesion|Pleural effusion|Pleural thickening|Aortic enlargement,0
+13278,6899d63a9d60ee219291ba61f964dbcc.png,No finding,1
+13279,b3b0959ef58eb104a23fd57cab42ebde.png,No finding,1
+13280,dd736e1b1729796f6212e55b7fef44b7.png,Cardiomegaly|Lung Opacity|Aortic enlargement|Pleural effusion,0
+13281,8b5b5f74e9a9f1c08ffc8015e26c84ab.png,No finding,1
+13282,437da32e6a31f7abf53187e87fc46ed7.png,No finding,1
+13283,d72a1606ba9dae31816d25ef0a2f0748.png,No finding,1
+13284,1f4b11018ae7a80969cea875fa22abd1.png,No finding,1
+13285,0cc824d4b3896c3ee6b6f6c4a8cae900.png,No finding,1
+13286,6137da0107d18f2bc35b6814c0f00ac8.png,Lung Opacity|Other lesion|Calcification|Aortic enlargement,0
+13287,5a6d2230079199292a91513554d61f55.png,No finding,1
+13288,1070b419b62a9b7b1a8e71cd9504ffb8.png,Cardiomegaly|Lung Opacity|Pleural thickening|Other lesion,0
+13289,98797dadf409a8be691f64f5c3a1a06e.png,No finding,1
+13290,8ef3fb1b703ffcb77d3709d45adf8695.png,Pleural thickening|Aortic enlargement|Calcification|Pulmonary fibrosis,0
+13291,807797c8ef120370d45796ed35260d81.png,Consolidation|Infiltration|Lung Opacity|Aortic enlargement,0
+13292,ec78eb5c21f737384ad71b03812698b4.png,No finding,1
+13293,ce4a461ab5b95bc7b79bc6bea11f7ff8.png,No finding,1
+13294,38050fd73727ad288cf923b5156709e2.png,No finding,1
+13295,498ac0c4815a890629cf509446a47238.png,Calcification|Pulmonary fibrosis|Nodule/Mass|Pleural thickening|Aortic enlargement,0
+13296,24f69d2bed536ccea3b54bf28131f062.png,No finding,1
+13297,84ccfc2b291a2986d20f22861de7f699.png,Cardiomegaly|Lung Opacity|Pleural effusion,0
+13298,38e4156d00946746696b72f9bfa791de.png,Cardiomegaly|Pleural thickening|Other lesion,0
+13299,230ffa646a0bec6bce8b027cd4c66832.png,Consolidation|Infiltration|Lung Opacity|Aortic enlargement,0
+13300,7168076e56f8feaa7de68e441156b9e4.png,No finding,1
+13301,f90442f2620175fa21b6afeda865df11.png,Pleural effusion|Pleural thickening|Nodule/Mass|Pulmonary fibrosis,0
+13302,1b03c314b36093dcc228bce4e0667c07.png,No finding,1
+13303,f17ab5d2c1c0820f859587e13515841f.png,No finding,1
+13304,309477b0f202f3b333c6b006734e4570.png,No finding,1
+13305,e553a378133c655abbda6a0b64b3077e.png,Consolidation|Pleural thickening|Infiltration|Pulmonary fibrosis,0
+13306,9c6749b3ef7e2726c71c7ba5035b3c07.png,No finding,1
+13307,d6d2896d8c4e3cf8b74fc981e7218678.png,Nodule/Mass|Other lesion|Aortic enlargement,0
+13308,f5b2547ee619395f63368aab8996f2fb.png,Infiltration|Lung Opacity|Other lesion,0
+13309,2b69e1299f64741b271b654c8792ec7b.png,No finding,1
+13310,d35ffd8afe3f0ff397f387509049885e.png,No finding,1
+13311,2d6d1b01427ec2acbdbc2149559585fa.png,No finding,1
+13312,464459bb5425646aca85cfe361661a14.png,No finding,1
+13313,55c49c21eb7aa33f417c1f273d209b82.png,No finding,1
+13314,43ae6ce07ea7faacca2728b451cd0342.png,No finding,1
+13315,0e117be65f091eef126fe3e5c68a187a.png,No finding,1
+13316,064a05cb72c83c2ac552078ef6060cc0.png,No finding,1
+13317,80494023b09f661f00cca8ebaef860c2.png,No finding,1
+13318,d7126dbdc94e1ac90542ba529e21ab27.png,No finding,1
+13319,8b064a6141622b0843758de6778784ac.png,No finding,1
+13320,587d7941d6526009cb53ddc54410a9a6.png,No finding,1
+13321,be935a84c31073eaa197f0dddd37784c.png,No finding,1
+13322,7818fb1b87d3e5db37218f019278d6bd.png,No finding,1
+13323,834088205c0b6066ebacac10dc6375d5.png,Pulmonary fibrosis|Aortic enlargement,0
+13324,36148cd81d5c56b7adec783c7c629ec6.png,No finding,1
+13325,f369ab97b45fdd8ac73e51af003ae854.png,No finding,1
+13326,1a12a01319157c409b0874b66319bc35.png,No finding,1
+13327,b8d0602c3d243b1f833bc0e5885a0b0c.png,Calcification|Lung Opacity|Nodule/Mass|Pleural effusion|Pleural thickening|Aortic enlargement,0
+13328,4193b70ebecde523e99a9f29ca31538a.png,No finding,1
+13329,25897fa85891d5fcf7c65d520628cf20.png,Consolidation|Lung Opacity|Nodule/Mass|Other lesion|Aortic enlargement,0
+13330,c9273b952d07d16a9e39560eb93cfcd7.png,No finding,1
+13331,28eb28a9feba4a3fd37327417aba1ed7.png,Cardiomegaly,0
+13332,deb2c40c1931ab8282f964cd0a93ad9e.png,No finding,1
+13333,9cd567d3e9bbb1f2ab50f1e8eae1962c.png,No finding,1
+13334,14bff13391fb9afad88949a2f83daab6.png,No finding,1
+13335,52798bf6b05abfd0558cc0c72687cf56.png,No finding,1
+13336,b2a52a18d74c641353762a0c1569a695.png,Cardiomegaly|Lung Opacity|Aortic enlargement,0
+13337,238fe4bc6b480743d8d46aa68a240be8.png,No finding,1
+13338,161125d894b855b4e89cfbce0d496781.png,No finding,1
+13339,dab8cd0be3205b1790e417843564eb2c.png,No finding,1
+13340,6ebf12c97a3f69fae8a169416f33d768.png,No finding,1
+13341,ea5735aba75173f7030d51e31165d92b.png,No finding,1
+13342,8467de56fc7781d90c71ad74ffaa2ed1.png,No finding,1
+13343,b4682a500878893cfec7e06e670e6c4b.png,No finding,1
+13344,1066a058b5bae597f2dbb33780c2577d.png,Calcification|Pulmonary fibrosis|Nodule/Mass|Pleural thickening|Aortic enlargement,0
+13345,bcf3818ef301f9e1744c128536468d7e.png,No finding,1
+13346,f6953ff546b85c1d1a540eb4c50e4c98.png,No finding,1
+13347,caa7d58bac06b2b14e10f7d310d0bd1a.png,No finding,1
+13348,15a0f6bc04df6fafdc50b7637fbde815.png,No finding,1
+13349,053700069ddf3c4f1f6c477a48337836.png,Pulmonary fibrosis,0
+13350,da1f5d4d40b9a1b9e5c3f4adf092e68c.png,Cardiomegaly|Aortic enlargement,0
+13351,34da410e04ac8dca4ad6c954fdf10f9a.png,No finding,1
+13352,94aacb0f4b6f837af4311cd8742bab06.png,Cardiomegaly|Aortic enlargement,0
+13353,5f209961057e6ff253148bbcfd5c5391.png,No finding,1
+13354,14f8770d112738119f0f31ee75e8fc41.png,Calcification|Cardiomegaly|Other lesion|Pleural thickening|Aortic enlargement,0
+13355,e231c613316a725fb7f844b9390fa024.png,Pleural thickening|Pleural effusion|Aortic enlargement,0
+13356,eb846bab70e76bb4ab2cbb887d8f333a.png,No finding,1
+13357,c47b6592b70ba7c5bdb919f92f4ec07a.png,Cardiomegaly|Aortic enlargement,0
+13358,d5f6e4ac57771303fe96ac40b177a28d.png,Consolidation|Pulmonary fibrosis|ILD|Lung Opacity|Infiltration,0
+13359,09ebaedff630f8fa4d5d752f0beb34f2.png,No finding,1
+13360,52ed2f5f58b7b0547c37a78e735b4e4f.png,No finding,1
+13361,f57499c072f081f12ce8006e81a20d74.png,No finding,1
+13362,11b3a0fe7f25bbe7643c60bcb14c35f5.png,Aortic enlargement|Nodule/Mass|Other lesion,0
+13363,ccc1a37e9a965408e6711b70b037c8a0.png,No finding,1
+13364,66a42146929520fe337cad37816f4384.png,Other lesion|Pulmonary fibrosis|Nodule/Mass|Aortic enlargement,0
+13365,44d8463dc6b97354823587afe0ea9d75.png,No finding,1
+13366,e2dd667fb2a1751d045d35105425a94d.png,No finding,1
+13367,92aae34a06d6449de924ff4932659512.png,No finding,1
+13368,dc3d3675ea30a5f3885dcc1b258a6a2e.png,Lung Opacity|Other lesion|Nodule/Mass|Pleural effusion|Pleural thickening|Aortic enlargement,0
+13369,3c5e999bcc6ac19f375f201c27546de1.png,Lung Opacity|Nodule/Mass|Other lesion,0
+13370,a696b0fbd24620e5f86b377968175fd9.png,Cardiomegaly|Other lesion|Aortic enlargement,0
+13371,4325459899364084f6d63bcbee5c586e.png,No finding,1
+13372,5a42ea55783b7ea5ae8939435940adf1.png,No finding,1
+13373,cc9a84f1f3942ceb845c5f174e5b70cd.png,Cardiomegaly|Lung Opacity|Other lesion|Nodule/Mass|Pleural effusion|Atelectasis|Aortic enlargement,0
+13374,63a853b45510dfc485c9dbc998539cd1.png,Cardiomegaly|Aortic enlargement,0
+13375,9a7decacad5d692b7c6b7253217fc770.png,Aortic enlargement,0
+13376,8bf0a2699ff076aab743395d6ebca44d.png,No finding,1
+13377,1f9d093a5760dd389a6a22e41f89263e.png,No finding,1
+13378,cd65b855649668771590cb5693e40910.png,No finding,1
+13379,dd2fcc4feaa9544f3691e1db071e7e8b.png,Pleural thickening|Aortic enlargement|Cardiomegaly|Pulmonary fibrosis,0
+13380,f911342fabc994606ca8b6deffd8cc0f.png,No finding,1
+13381,e9e59e91a7e4419a9b6a997e004e8f9a.png,No finding,1
+13382,09f575260ca3169ad362eb82a5e66349.png,No finding,1
+13383,e06191cd733ebbe6529918d65952891d.png,No finding,1
+13384,6c9fe8b8ff904ab226c611a0e5567b32.png,No finding,1
+13385,5c268b2e9d7f9b7ce33c3d4ebf3adb30.png,No finding,1
+13386,778592c49dc5b2bd4f4d4f415e174b5c.png,Cardiomegaly|Aortic enlargement,0
+13387,59adbe1e67fc3940b3b2e62883154b05.png,No finding,1
+13388,be97043265be8c30ef57f278b3ca24b2.png,No finding,1
+13389,8b1beee6ae2a00d5a98483e50c7ac0f2.png,Cardiomegaly|Pleural thickening|Aortic enlargement,0
+13390,0e093fa90e5be5666cd396d722cc84ac.png,Infiltration|Pleural thickening|Pulmonary fibrosis,0
+13391,0eeff8568b00af202ecfd1adb1028f76.png,No finding,1
+13392,e07fc7a901c4d4dd47838d0a431332c1.png,No finding,1
+13393,70352496be6ce4f5be6e6828d2b6e8f5.png,No finding,1
+13394,86b72a9c5e2981df08ac13101f5055bf.png,No finding,1
+13395,694719c20ef91af3f7a7e6b00ba98b64.png,No finding,1
+13396,a9ace70f0331bf293ca1fb56f40af36e.png,Cardiomegaly|Pleural thickening|Calcification|Aortic enlargement,0
+13397,d414a0d3435dd64628dd3b72e6ecd6be.png,No finding,1
+13398,09df460412ce705d0f634436f518f46d.png,Pleural thickening|Other lesion|Cardiomegaly|Aortic enlargement,0
+13399,ec50f4e31b95d1bd6ea1e3fc42687c1f.png,No finding,1
+13400,5df459c558910e614a9eb6bd7b454777.png,No finding,1
+13401,303c37b814a0bd24f64fb06cab400766.png,No finding,1
+13402,9bc4efab79fda2c8d0c4fe352979d35f.png,No finding,1
+13403,2dd1a6606ae8f23a5912114dd69cec94.png,No finding,1
+13404,72c909d2fb1087e9588136505e9e7020.png,No finding,1
+13405,d422971dcb2e5d13f06aa08656a249e8.png,No finding,1
+13406,c390064d6c4559092d8625f7c140f289.png,No finding,1
+13407,7ecd6f67f649f26c05805c8359f9e528.png,Pleural thickening|Pulmonary fibrosis,0
+13408,24a83567c34851d7e8dcdcc6bf2e2833.png,No finding,1
+13409,2a6d1ced2d75a229ea936e5f2dbbbe32.png,Cardiomegaly|Aortic enlargement|Pleural thickening|Pulmonary fibrosis,0
+13410,a54838cfed44cc0b5bf5c4e73c50a72b.png,No finding,1
+13411,dd99e9d412337a3c380957def7ff1479.png,No finding,1
+13412,628ab07625d7ac80f9c909b4380e75b3.png,Pleural thickening|Pulmonary fibrosis,0
+13413,a8db71e482a4dc2e83a1f5eecd9568cc.png,Lung Opacity|Other lesion|Pulmonary fibrosis,0
+13414,b6a1fb44485f487ebc255f3bfa700ef5.png,No finding,1
+13415,938d2fcf6e65f8b9f1489dd8ceab7ca8.png,No finding,1
+13416,59e209dfdfd98104e5f8777b4ab02434.png,No finding,1
+13417,69972b49aac9f4aea137e51984cf8691.png,Pulmonary fibrosis|ILD|Lung Opacity|Pleural thickening|Nodule/Mass|Pleural effusion|Infiltration|Aortic enlargement,0
+13418,12cf26b7bc093d6cd5d3535ef4d30b54.png,No finding,1
+13419,5048db1ae3d8a9dd5f921ea1ca870e2e.png,No finding,1
+13420,48981731d2d8810325cf3b96341f2aba.png,No finding,1
+13421,6ed2ab0e4ba47734a7b2a47deff243c1.png,Cardiomegaly,0
+13422,9f4d59945cb1bc2f3dd51754a5943e3c.png,No finding,1
+13423,d8275cd2eabf34a7f7bf22bdd838bc70.png,Pulmonary fibrosis|Cardiomegaly|Lung Opacity|Nodule/Mass|Pleural effusion|Pleural thickening|Aortic enlargement,0
+13424,84823b0b03c61f4a8d1f6cc074dfea3c.png,No finding,1
+13425,f52ec4da5edc58fc2f93c00316c38fe7.png,No finding,1
+13426,c51663ea91bd76d56e45504e5db43b6a.png,No finding,1
+13427,fd8bd7efba38113c2848079bab15f193.png,No finding,1
+13428,07c9ba701fe26c4d6de66965e4d35157.png,No finding,1
+13429,e67e91b27935a01b738eaa01ede863fd.png,Pneumothorax|Consolidation|Pulmonary fibrosis|Nodule/Mass|Other lesion|Pleural thickening|Atelectasis|Aortic enlargement,0
+13430,d65e8ebeaf0add8c9491ba9d8b35931e.png,Pulmonary fibrosis|Cardiomegaly|Lung Opacity|Pleural effusion|Pleural thickening|Aortic enlargement,0
+13431,654908d5b6891175a8d9f4129a4d9694.png,No finding,1
+13432,a6842924ead8dcf7ed990f600c0db137.png,No finding,1
+13433,49c82483ac000168b60056b1153c1afd.png,Cardiomegaly|Aortic enlargement,0
+13434,7ec1177a72b786ae2be31bddee000f93.png,No finding,1
+13435,096688dacee6b1a1a5660ad15024a6f9.png,Lung Opacity|Other lesion|Aortic enlargement,0
+13436,800a68b6e6a75b5d6e5c3160ddafe266.png,Cardiomegaly|Aortic enlargement,0
+13437,d0ba377bc03a5a48dd61f31a59823791.png,No finding,1
+13438,c39440999e8b3e376911ab851a7c56f6.png,Cardiomegaly|Lung Opacity|Other lesion|Aortic enlargement,0
+13439,17ccf6f844d55c58effbbcb55a89188b.png,No finding,1
+13440,abb0d80ca4f6e06c658d6796088040c5.png,No finding,1
+13441,f5824499552ae516c70308416344eb91.png,Infiltration|Aortic enlargement|Nodule/Mass|Pulmonary fibrosis,0
+13442,e1e74a1b970197d2b8a236f4ddd8f3d5.png,No finding,1
+13443,82877be2465c084b0b9bc186fc7f158f.png,Infiltration|Other lesion,0
+13444,d11b2ce53ce195af06de80a5076f8126.png,Pleural thickening|Aortic enlargement|Calcification|Pleural effusion,0
+13445,c80a411859b7c46cbdecd5ce6cf0b47b.png,No finding,1
+13446,5610fd15c233e8ed55909ff2b9948ad3.png,No finding,1
+13447,3b8924e7fa45e8a8abd59b9f5174665a.png,No finding,1
+13448,cbfe3d59be5549fee6a56e73fc8b2803.png,Cardiomegaly|Pleural thickening|Pleural effusion|Aortic enlargement,0
+13449,3e6dc1696e378ed55ea60091c620af4d.png,Aortic enlargement,0
+13450,cb30e92272f713dd8224320c17cfedbf.png,No finding,1
+13451,7f1d7f3172c881299c6055db6ae127c1.png,No finding,1
+13452,fb60c3083ec018a8bc953b6af2d39151.png,Cardiomegaly|Aortic enlargement,0
+13453,708249b5f1cff1ae05f850da5fc2b625.png,Infiltration|Pleural thickening|Pulmonary fibrosis,0
+13454,2d40e0cc7dca11e4b2d8574532096c31.png,No finding,1
+13455,8709819be5b46c9e0fd3405be96d3740.png,Aortic enlargement,0
+13456,31b25fa0519adf33768177c116092d83.png,No finding,1
+13457,becab72d8a1f599d4a3d3650d3fffe54.png,Aortic enlargement,0
+13458,fc206ae1d3ef8a63e90642dba9f75e4a.png,Infiltration|Lung Opacity|Nodule/Mass|Pulmonary fibrosis,0
+13459,c879d5119cc393dc2af6a5fcf861007f.png,No finding,1
+13460,78b0c9b0b5119e164eca84e3a288452e.png,No finding,1
+13461,ddd12b32eca38d67c4a3f99f5878f560.png,No finding,1
+13462,512a1c21b2525af0a5cfa9db2201ab67.png,No finding,1
+13463,64bb0c2fe03598b5b9c90ddc2f68eaeb.png,Cardiomegaly|Aortic enlargement,0
+13464,8fd4e7599250d006e579f1ffcb28b1b1.png,Cardiomegaly|Lung Opacity|Nodule/Mass|Pleural effusion|Pleural thickening|Aortic enlargement,0
+13465,50f162f9ba07dc0df900cc2ae3ce24ef.png,No finding,1
+13466,b8d9fa1b48f97af1ac25015629c03336.png,No finding,1
+13467,4ca74d7bb5be01b0d9779c57231bf1c1.png,No finding,1
+13468,b0c179bc7f39eeb0add4d6e00e51732c.png,Cardiomegaly|Pulmonary fibrosis|Aortic enlargement,0
+13469,0c6a7e3c733bd4f4d89443ca16615fc6.png,Calcification|Consolidation|Pulmonary fibrosis|ILD|Cardiomegaly|Lung Opacity|Other lesion|Pleural effusion|Pleural thickening|Aortic enlargement,0
+13470,5afdc4e7edfdefd26c0c8381ac79b358.png,No finding,1
+13471,b89103ceb6d47e45889eb9a21d04542c.png,Cardiomegaly|Nodule/Mass|Aortic enlargement,0
+13472,a4e2a5e09a4a18d87207901815df0475.png,Cardiomegaly|Aortic enlargement,0
+13473,a9ab4843564feecfc052a300af02cf71.png,Cardiomegaly|Aortic enlargement,0
+13474,68f7ee667e33c638abc21bcd543ad9d5.png,Consolidation|Pulmonary fibrosis|Lung Opacity|Nodule/Mass|Other lesion|Pleural effusion|Pleural thickening,0
+13475,9e6c6630141c65ffe6d86211dafa2f21.png,No finding,1
+13476,9b091aa027eeb034fc8fe803692028a0.png,Pleural thickening|Cardiomegaly|Aortic enlargement,0
+13477,c3887f72f09c88caa48af0ae58e57da5.png,No finding,1
+13478,447b27e5b6c7719bc1a272ba5ab1473d.png,No finding,1
+13479,0eac4cf8618d5e582c336217d0291f25.png,Pulmonary fibrosis|Lung Opacity|Nodule/Mass|Aortic enlargement,0
+13480,8c09865ee3cb674cc41dee8bca45fe5a.png,Consolidation|Pulmonary fibrosis|ILD|Lung Opacity|Pleural thickening|Nodule/Mass|Pleural effusion|Infiltration,0
+13481,9802dac0c641057a92a761cb932324e2.png,No finding,1
+13482,a85e347c62a7b0f063727d4880e75fbb.png,No finding,1
+13483,19a41a18fb5212373a5f449fdf997075.png,No finding,1
+13484,43cbc92d48a9318036e947277c3981fd.png,Pneumothorax|Pulmonary fibrosis|Nodule/Mass|Other lesion|Pleural thickening,0
+13485,09ea9c40b1ee28b4712aec08f108a0c8.png,No finding,1
+13486,d8b16ea0320a52d536fef0e076eeddd6.png,No finding,1
+13487,f23997e9de9e4cb2b3df4b28da34c87f.png,No finding,1
+13488,1af9eca90157fa3d3c04c3ac90ccb9a9.png,No finding,1
+13489,2ef89b3c98a05e33bbfa8393b5280e1c.png,No finding,1
+13490,68171fb7046c6bf3321e70ff5af92de0.png,No finding,1
+13491,3f6ff1181df8ee8921f48a92d546de73.png,No finding,1
+13492,ecadf9a1eca2152b13f18d3a0b8bfba4.png,Pleural thickening|Nodule/Mass|Pulmonary fibrosis,0
+13493,14a35e1f083bd63954592ce015771d0b.png,No finding,1
+13494,0906a09b04f8d82c2cad5b820602a403.png,Pleural thickening|Pulmonary fibrosis|Aortic enlargement|ILD,0
+13495,ef9ba80e23c77ad5c619e74bfbdffd8b.png,Pleural effusion|Pleural thickening|Other lesion|Aortic enlargement,0
+13496,b4d7b232aa6ab1651da11bfae84c76e8.png,No finding,1
+13497,8595a907989ae0f679d12b6a00d90707.png,No finding,1
+13498,9387e5052d62d2f8fd7ef0ce08d1fe15.png,No finding,1
+13499,01b0d8debe488c18e4c79624dd8a4f30.png,No finding,1
+13500,a3edf89d922032beef7cf3484ab9fe54.png,Cardiomegaly|Aortic enlargement|Pulmonary fibrosis,0
+13501,b8dd4f5d47db68c0cc577362828cbc2d.png,No finding,1
+13502,b6021046081d799d5f46c5bed34d890b.png,No finding,1
+13503,5e3c457f701115bfe0f5309c42da6c65.png,No finding,1
+13504,c6ce00a54e01d4fde617260a33c33394.png,No finding,1
+13505,89fbe02e0d7f8fc97ae98614a012301b.png,No finding,1
+13506,7f3e0ac2d75bcf28ff324385da5ff3f9.png,No finding,1
+13507,5b96a79b2f850d88b7b265f777bc8da8.png,No finding,1
+13508,dbc340c6c203fcdd803a35cf6fe56463.png,No finding,1
+13509,67d2aa041a3556a12994b0ba36fbdc68.png,No finding,1
+13510,b697b05804ad72848855b69781acf2eb.png,No finding,1
+13511,8566d9205d59b74e1828d61c6739e15d.png,Pulmonary fibrosis,0
+13512,764205f702d380f8a4da5cffa538f48d.png,No finding,1
+13513,e7ea94b2fec95a7461b10a7f3eea2897.png,Cardiomegaly|Aortic enlargement,0
+13514,5184bc9a54adf7c8cb707c45f21fd741.png,Pleural thickening|Pulmonary fibrosis,0
+13515,16c79941fd188812a67288df121c8265.png,No finding,1
+13516,d86ef0cf8f2fe8de11926a45bbce5379.png,Pulmonary fibrosis|Lung Opacity|Other lesion|Pleural effusion|Pleural thickening,0
+13517,a762d86c37354288cbee2a68d3f7fd10.png,No finding,1
+13518,f1c4779f16c3ebad57ecb73dcf2a2c1d.png,Pulmonary fibrosis|Cardiomegaly|Lung Opacity|Other lesion|Infiltration|Atelectasis|Aortic enlargement,0
+13519,be68ec0ff4c6093fc3ffba8dd83b033d.png,No finding,1
+13520,3fe37d132711f84805405defb3673681.png,Cardiomegaly|Aortic enlargement,0
+13521,3d056d7ea2a9792b95034d17f8056f2e.png,No finding,1
+13522,23131626dc183b20262da386d09fb1c1.png,No finding,1
+13523,427cee14f796b7a14074226155892f7c.png,No finding,1
+13524,b972510adf2f7a48c87ef3ab845c9401.png,No finding,1
+13525,9a515577750417b5e6d096b6ae16880e.png,No finding,1
+13526,bffe24bfd56e64deb65bf639805df7cc.png,No finding,1
+13527,7389cf605a4839265f77d118588869ff.png,No finding,1
+13528,9def44a5c7f43c29e24752e03add7809.png,Cardiomegaly|Pleural thickening|Other lesion|Aortic enlargement,0
+13529,2c7fbcdc37fba555a38a39db3d9e41a5.png,No finding,1
+13530,bc87c2265556912b25d36f2fef105a01.png,Consolidation|Lung Opacity|Nodule/Mass|ILD,0
+13531,140682923c5e674fdd682ed499986e33.png,No finding,1
+13532,7f96d122bf50434dcfd3dd9b16d2c05f.png,Aortic enlargement|Other lesion|Pulmonary fibrosis|ILD,0
+13533,fe9ea4cc5d0c98dfb4590931b5a0e672.png,No finding,1
+13534,77c56551375e4c0823a042fdf3d226a1.png,No finding,1
+13535,80f2bd216bbb01b56cf50c9a85f79233.png,Pleural thickening|Aortic enlargement|Pleural effusion|Pulmonary fibrosis,0
+13536,7b35cd7b025cfc4bb4099e84f9b0eeeb.png,No finding,1
+13537,82606373432942cb204dd1a42a6f591a.png,No finding,1
+13538,93ceed16504fa1891d00eada288a4c5f.png,No finding,1
+13539,a077f8b8a0f82348128918516eacff8a.png,Cardiomegaly|Aortic enlargement,0
+13540,03a6df9c2830d62c2b00a5fe5056d40d.png,No finding,1
+13541,d44deb5774617d3e89893bae3994489f.png,Pleural thickening|Cardiomegaly|Aortic enlargement,0
+13542,954ba15a1e8ab492c5b7ddfc2a48653e.png,No finding,1
+13543,98553a08561599e00ebcbc603e206557.png,Cardiomegaly|Aortic enlargement|Calcification|Pulmonary fibrosis,0
+13544,cfbf4cf50bfdc65b49aa60353700a130.png,No finding,1
+13545,ad5d2e0ed81b05f691e20a1a2582627e.png,No finding,1
+13546,b127a6da511c3c1d544b54fc52e9c6b7.png,Aortic enlargement,0
+13547,7f0d9559e81ae52e9d046609d419dca1.png,No finding,1
+13548,c8f75e6529a051827b8b7952a3e65f5b.png,Pulmonary fibrosis|Other lesion|Aortic enlargement|ILD,0
+13549,06f3c1a8441d61da08aac07558ab5f05.png,Pleural thickening|Nodule/Mass|Calcification|Pulmonary fibrosis,0
+13550,e9269d70abec8d90f4790c6afaa4a924.png,Lung Opacity|Nodule/Mass|Other lesion|Aortic enlargement,0
+13551,634692d5bae08695f3c842dfbabb902b.png,No finding,1
+13552,fc8dc4f9fde6654bf7c90cf4a97e953d.png,No finding,1
+13553,1b8929dcd5ba852afce3a24c9a33909b.png,No finding,1
+13554,4100c53c73e1086129259d028f2db897.png,No finding,1
+13555,1ee72c7f5de164530f9efa3c2d04bffc.png,Pleural thickening|Pulmonary fibrosis,0
+13556,d7eb94980cc0b411e02e7e792f686eef.png,No finding,1
+13557,675ffaef18559ad337d8abb65ee44624.png,Cardiomegaly|Lung Opacity|Pleural thickening|Pleural effusion,0
+13558,f6fc6f200924da874ae95664661e67aa.png,Cardiomegaly|Lung Opacity|Nodule/Mass|Pleural effusion|Pleural thickening|Aortic enlargement,0
+13559,89348dd8566589ca223f29a5da897bdd.png,No finding,1
+13560,ab207165c0a15aafac2709fc9ea20599.png,No finding,1
+13561,0570ff53716dc31ce7979aaf7e1691c7.png,No finding,1
+13562,095afb9593cba8a56173554c7d800a15.png,No finding,1
+13563,7392ba639a64e84d8c38d1921e2d6108.png,No finding,1
+13564,bce9b4cb5ff441c9c906658f1e935fb0.png,No finding,1
+13565,32e735ff23d1c5bf5d2d1aa51937ca82.png,Cardiomegaly|Aortic enlargement,0
+13566,8d50372688dee34992b6b39fd237cf25.png,No finding,1
+13567,f5258c6553ebe9557f5f79ba52428220.png,No finding,1
+13568,4ead78958600d17feb7a7a00a465e804.png,No finding,1
+13569,0de6a6b3d7689c2f261f2fc385d3b667.png,No finding,1
+13570,6237379fbb3f08a3c76dd95c1dfb45bb.png,No finding,1
+13571,5963596becc2072e4ad748f8a2c3e811.png,No finding,1
+13572,2c455514c8e4a448d0a3f3f193fe97a4.png,No finding,1
+13573,66c03db83615b5c925b5bbdcd4a3c326.png,Consolidation|Infiltration|Lung Opacity|Nodule/Mass,0
+13574,703a96532637528e3aafb5f5668186cb.png,Pleural thickening|Pulmonary fibrosis|Pleural effusion|Aortic enlargement,0
+13575,5cefd144909538b07270bd3283d567cc.png,Cardiomegaly|Infiltration,0
+13576,9a1a909b3cc2641976339609258c1b04.png,Cardiomegaly|Aortic enlargement,0
+13577,4ba1b85c3650584d7708baa9df6d3260.png,No finding,1
+13578,8f49606aad864437f73d657712df64d1.png,No finding,1
+13579,886c42267bc0f994ef7185daa2ffeaa4.png,No finding,1
+13580,f38455688ba4360b502d7c512295953e.png,Infiltration|ILD,0
+13581,ff301dc8a5eb8994e07a98e6d63b587d.png,No finding,1
+13582,3fcd92fe8e56a1867bb6c72d87a3025d.png,Cardiomegaly|Aortic enlargement,0
+13583,5e921c955082a39bbcebd3d42a8d0b4c.png,No finding,1
+13584,3735db2a61a73227dd6afc65c2d8bf23.png,No finding,1
+13585,54f2544028be9d9e366b1b71711395ec.png,No finding,1
+13586,357b22f02be38869ae859f0add02b898.png,Consolidation|Pulmonary fibrosis|Lung Opacity|Pleural effusion|Infiltration,0
+13587,a73aefc9a0227241b384d12e46966273.png,No finding,1
+13588,bffb5303ac64552996db400e0f7058b0.png,Pulmonary fibrosis|Cardiomegaly|Nodule/Mass|Pleural thickening|Aortic enlargement,0
+13589,e3ac18fd134bcb699760db4ef362e14f.png,No finding,1
+13590,996589592a0f854d6aeefa817f76ffde.png,No finding,1
+13591,83c30c1b04b487fb45a186aedcb8971d.png,No finding,1
+13592,139282fc433f147aba91c6a99b8376c3.png,No finding,1
+13593,3c7949b75bb527c91a6518e4f40fc87a.png,Cardiomegaly|Aortic enlargement,0
+13594,14629917f69e21145d1e662ef6c0dc2e.png,Aortic enlargement,0
+13595,a782b1a571da89222c8085b9fb6b1df5.png,Pleural thickening|Infiltration|Pulmonary fibrosis|ILD,0
+13596,46c8b5f28cbb1efaa2a301ab718265c7.png,No finding,1
+13597,086a51e48347510728864ffed276ec1f.png,No finding,1
+13598,1b7fbab20af688131ddebff7bf473879.png,Cardiomegaly|Aortic enlargement,0
+13599,865ea295fcf3442224a58a60a9190b41.png,Pleural thickening|Other lesion|Pleural effusion,0
+13600,ede3e4041468a91f1a8027aeaa10e540.png,Pleural thickening|Pulmonary fibrosis,0
+13601,2479523e23486abd1d2ad666381eea86.png,No finding,1
+13602,d16f5fd6c9f2c17efe75b084d527c2a5.png,Infiltration|Cardiomegaly|Aortic enlargement,0
+13603,87a8df2f22475c7200ebe891d0f25b88.png,Pulmonary fibrosis|Cardiomegaly|Lung Opacity|Other lesion|Pleural effusion|Pleural thickening|Aortic enlargement,0
+13604,6d49f169acaa751758812bd0548ec553.png,No finding,1
+13605,98e2d03f7e9ba87b4922b35347866fc4.png,Cardiomegaly|Pulmonary fibrosis|Other lesion|Aortic enlargement,0
+13606,f3e2acc29575948204c9bf9df9289de4.png,No finding,1
+13607,fd3328ac67ebfde350f68a954c738c77.png,No finding,1
+13608,3ca1dc2c7a30bb0c9b541f91d9313c5b.png,No finding,1
+13609,58c1acf7467dfff4eff29ffbde295691.png,No finding,1
+13610,10898f48f4d75139b29732592f307e88.png,No finding,1
+13611,e83496c11ecf7cb9966bfa0426ad7cf7.png,No finding,1
+13612,b544085616a59c03b122f400c6615c5b.png,No finding,1
+13613,2dd5338d21da724c3ecaed478ab810e9.png,No finding,1
+13614,a156c27ebe5e522db40d6179ede721b0.png,No finding,1
+13615,04fd89a35648f61485c02b90454bf246.png,No finding,1
+13616,32cdd3f20f1f6beff94ee714b61d93da.png,No finding,1
+13617,d0c002130841e793bfca41ddb53fbda5.png,No finding,1
+13618,48e258ce61a71b27f93233e021024be8.png,Cardiomegaly|Pleural thickening|Aortic enlargement,0
+13619,5d37206ee0084505c5509d92029ee95e.png,Cardiomegaly|Aortic enlargement,0
+13620,8b1ffb51d670570e44e8ac5c17da3a55.png,No finding,1
+13621,ac916ddc4407731df2c5e6c0b70aabfe.png,No finding,1
+13622,78519abf7e98608850e125d48cc1556b.png,No finding,1
+13623,4befb68953c8c713258a3e676d3df30d.png,No finding,1
+13624,8f53904e77e3c20fc28a489d9737d973.png,No finding,1
+13625,595883a29ce9b34f8ae3c2380cbd6239.png,No finding,1
+13626,76b94abea3d34cdea83ca5011ccab53a.png,Cardiomegaly|Aortic enlargement,0
+13627,565a05fe974fa869569d974b10f27cf3.png,No finding,1
+13628,643ca80f9a8d1612984ca6ceb7fd9f6a.png,No finding,1
+13629,03e7c2196d3d56047e546e97468c76a4.png,No finding,1
+13630,3e7261e033146c6a7ae60566a7a12fed.png,No finding,1
+13631,a593d4aa6d8d9dbe2139c6c3889535eb.png,Cardiomegaly|Lung Opacity|Pleural thickening|Other lesion|Infiltration|Aortic enlargement,0
+13632,57415c4992802274b5a54930019c30f1.png,Pulmonary fibrosis|Cardiomegaly|Lung Opacity|Other lesion|Infiltration|Aortic enlargement,0
+13633,ff7a03aeaca3523c665c533d9a7e2622.png,No finding,1
+13634,2ba09f4a64b4d6268cf891974fa9bad9.png,No finding,1
+13635,1aaa4b217affae30113bd3a7a384a4c7.png,Infiltration|Lung Opacity|Pulmonary fibrosis,0
+13636,19252698ff2897e6c3694db5dd7a6d2c.png,No finding,1
+13637,68ea6e99b40d33995282a81f1baf0ae3.png,No finding,1
+13638,3b9debbdb0a480e20163738e000d3bc0.png,No finding,1
+13639,ddc577f43160157e52fc6c93a5fd2b04.png,No finding,1
+13640,989c65929da5fa0297db8da6945cca52.png,No finding,1
+13641,3ea1b5a733446a95048f48337f0275d9.png,No finding,1
+13642,b3e56dfab8961d4cf4b94890f01b7c37.png,No finding,1
+13643,f791a58edd0f0080354090193069373d.png,Consolidation|Pulmonary fibrosis,0
+13644,357bbc11dd68858759437dceb094c58d.png,No finding,1
+13645,76a8a1a491e23dc44e0c33654f10c632.png,Pleural thickening|Cardiomegaly|Pleural effusion,0
+13646,d3013a1bf9748593f9a413cf4f067d7f.png,Aortic enlargement|Pleural effusion,0
+13647,43d5a4a18c3228cf1060d24a9407036c.png,Cardiomegaly|Aortic enlargement,0
+13648,a48ee6663be29b30c578aa2ea225e2d1.png,No finding,1
+13649,cd42d4220f19d14291f1cf7c2a194f07.png,Cardiomegaly|Pleural thickening|Aortic enlargement,0
+13650,3776c22d10dcc44c0eb8bc6695d971c6.png,No finding,1
+13651,6a7e2b68c0cb8bdaac6323d35fb495f7.png,No finding,1
+13652,fb511731a1fc742451a090891ebaa0ce.png,Atelectasis|Aortic enlargement|ILD,0
+13653,47413ec6c79b4795ea7849cea26ece84.png,Pulmonary fibrosis|Pleural thickening|Nodule/Mass|Pleural effusion|Infiltration,0
+13654,21e14e9b837be036c1ca616888d50a03.png,No finding,1
+13655,f1dfc3bfb919da31d848eda5a20a8258.png,No finding,1
+13656,0e6a9e9f031fca5f634641fe41d31b24.png,No finding,1
+13657,aea448a9f33bf9919de6c74e0aa488e7.png,Infiltration|Lung Opacity|Pleural effusion,0
+13658,900809f90cb65b6fa2615c805e173f39.png,No finding,1
+13659,5b2566a6a2d1339b37a1553f21fc5b41.png,No finding,1
+13660,cb42c66229ad0a116e354b1468cc5548.png,No finding,1
+13661,b0c015954f4b80fddd0ed4d105e9e434.png,Cardiomegaly|Aortic enlargement,0
+13662,f4d7a04f379295bb190b0c95567f7e0a.png,Cardiomegaly|Aortic enlargement,0
+13663,abc53b4a032de3231d80353c6f49e3a8.png,No finding,1
+13664,3ec7d6d24ce3775c542d67669d262e7c.png,No finding,1
+13665,477085017102d1d52b49984eb8b65a0c.png,Cardiomegaly|Aortic enlargement,0
+13666,d519d6425296db0b6c7a01dec590fe8c.png,No finding,1
+13667,60fd026332a3ca45a2c97815e242855a.png,No finding,1
+13668,6f29fa15d91d566620d80703947672f2.png,No finding,1
+13669,20470c88e1f450f2611eb8086561fc8e.png,No finding,1
+13670,9bec6028a3cc222ea65a170776a82546.png,No finding,1
+13671,3c9223e97cf5d2b13f54c6efbb4ad0be.png,No finding,1
+13672,1075dde8870f9418d888dcb90c568172.png,No finding,1
+13673,b2d057ff2d8cde63dee83fb760f4e8d9.png,No finding,1
+13674,3dada1f2165d5a58e7d79d77da9b195c.png,No finding,1
+13675,013893a5fa90241c65c3efcdbdd2cec1.png,Pulmonary fibrosis|ILD|Lung Opacity|Other lesion|Infiltration,0
+13676,5e161b13cf6f70e59af85dadbd6bd25a.png,No finding,1
+13677,249503ef61e9450337fc04c69e7ceed7.png,No finding,1
+13678,af5b3774027bc0def0cb71e87d5bc0a3.png,No finding,1
+13679,396a2b32af68125392e457567dbe24e6.png,No finding,1
+13680,192a98fb55e4101cc4fd00129a82ced0.png,No finding,1
+13681,f4a2922f842b5cca41bc12a494452b9c.png,No finding,1
+13682,e2022cc39523ea951fb72fcb2029f08e.png,No finding,1
+13683,351d32f160bf6f546059cb35d0038b30.png,No finding,1
+13684,6f6995fd492dc85e40a1dc634d4595a8.png,No finding,1
+13685,822052eadcb828ee0427bd1257fbe958.png,No finding,1
+13686,609aa57eca1fce9afb86a341b7b560fc.png,Pleural thickening|Pulmonary fibrosis|Aortic enlargement,0
+13687,1038d42bccd9b51c786f23fa24aec9e0.png,No finding,1
+13688,743aaed5bbd2ae6c4b0dcbaa53671700.png,No finding,1
+13689,8668dfb3c405922dd87bafcb67faf989.png,No finding,1
+13690,736548ed94e659b342a15a4b32e71a1f.png,Calcification|Pulmonary fibrosis|Lung Opacity|Pleural thickening|Aortic enlargement,0
+13691,30ebf7e486b0e79286ed334d73ddc846.png,No finding,1
+13692,48e4dde9aae77154fe693f8d439a8a08.png,No finding,1
+13693,8d5872ff31b42e2585128ee2244ae02d.png,No finding,1
+13694,38b97efbca19ea22d60a2dd91a27e257.png,No finding,1
+13695,8b09d4ec88d8372bded8547543dbbf24.png,Cardiomegaly|Pleural thickening|Aortic enlargement,0
+13696,2ceaa4c6e93b4496df1831cccc3e433a.png,Cardiomegaly|Nodule/Mass|Pleural effusion|Pleural thickening|Aortic enlargement,0
+13697,aa4370e72e37cb955a24369f7fc9f35f.png,Other lesion|Calcification|Cardiomegaly|Aortic enlargement,0
+13698,a79e4b1c72a57047464f65c65f2b7ff3.png,No finding,1
+13699,e00f5ae6a44a3cb881882f8c1f19cf01.png,No finding,1
+13700,1c3d8a2aafef57d6aa48d11152d18da1.png,No finding,1
+13701,c0b2d357386d04933fd61bd86fb24394.png,No finding,1
+13702,cf4d4dc28551c17c0d33d0326d4a201b.png,Pleural thickening|Cardiomegaly,0
+13703,4842f7e236529de35cda663625d20e73.png,No finding,1
+13704,2f860fb83cbf1cb95b4ba94769a7f099.png,No finding,1
+13705,ab730707fed0edaf38a9b788b226b9f2.png,Calcification|Pulmonary fibrosis|Lung Opacity|Other lesion|Pleural thickening|Aortic enlargement,0
+13706,956968f00cae86775c7b54bdc9f8ec0e.png,No finding,1
+13707,fae699d3040cd12803b71691b279a6b6.png,No finding,1
+13708,76a40c2762929270c0282d0cc6265da5.png,No finding,1
+13709,37a162a49494e70202afdd543efe7457.png,No finding,1
+13710,ed12f48c2d1e66e21f0ff956d85ecb76.png,No finding,1
+13711,ac6f3e00be540393756dd8f31050a9ae.png,No finding,1
+13712,c16d96578716fe3cb42f7cafb814e023.png,No finding,1
+13713,46146ca33aff63a17f30385d1ea90b10.png,No finding,1
+13714,fcf8e5c63fb928b90ebac1738fdcf152.png,No finding,1
+13715,1bcf6203521944e6222a000fec9fab38.png,No finding,1
+13716,b95286549f34d421ef45672a044a8090.png,No finding,1
+13717,f1ece4212015e746f3d90a95feb17546.png,Aortic enlargement,0
+13718,5e24e1344309124eea34a207c836cd24.png,No finding,1
+13719,038a7c88fcd819549f430c1fd907658c.png,Cardiomegaly|Pulmonary fibrosis,0
+13720,5c6a7334ef6de11f55adff603734e4ea.png,No finding,1
+13721,c76f9bb22dfaa73cd8810e299cc0bd53.png,No finding,1
+13722,3b100a95644ac8ab01f261f2edd6f5e2.png,No finding,1
+13723,6b8bb3a6cc110df0f2e182c1db0b4b21.png,Cardiomegaly|Lung Opacity|Pleural effusion|Infiltration|Aortic enlargement,0
+13724,f04b3db35749d0bb959a9dbb8e5858c9.png,Cardiomegaly|Aortic enlargement,0
+13725,817d6851a8922386cee7904de94f2bf5.png,No finding,1
+13726,bd2c160cd78820ef799b5f0e8d6a1de9.png,No finding,1
+13727,4d870a1c9e2f77a548e38457410ad8f9.png,No finding,1
+13728,4ef589fee1b30a47d9955e4613cf901c.png,Consolidation|Pulmonary fibrosis|Lung Opacity|Other lesion|Pleural effusion|Pleural thickening|Aortic enlargement,0
+13729,942048b3178effeff6507cef798d67e0.png,No finding,1
+13730,baf0a9c0eef424d4f565fee733d3d10d.png,No finding,1
+13731,60c5297ae2262cacbfc9eecc611e152e.png,No finding,1
+13732,7ea14022f825d9bd869b05c7f10831db.png,Pleural thickening|Other lesion|Aortic enlargement,0
+13733,c454d24257f2d8ddd5701b4ea492141d.png,No finding,1
+13734,01b0069a8e0221a610294d4697b4abf9.png,No finding,1
+13735,931786165c810445eff5e832421a93c4.png,Other lesion|Nodule/Mass|Pulmonary fibrosis,0
+13736,705e9d7180b38f867631ae876da62af7.png,No finding,1
+13737,b4872c4ae2b5733b5d0c025949d077da.png,Pleural thickening|Cardiomegaly|Aortic enlargement,0
+13738,f0b8c0d06a7cccc003f214b216673324.png,No finding,1
+13739,ae0166b5aa0bd2b27ef90feb99fb86e5.png,No finding,1
+13740,3d00830c1e6eb1575c1f019157990238.png,No finding,1
+13741,3105bf6d00f6c2164ea9285b20692df5.png,Lung Opacity|Pulmonary fibrosis,0
+13742,9fe9aeb925c5187479ca1bf325040a65.png,No finding,1
+13743,bea1f7c619ec14e67f81887886629899.png,No finding,1
+13744,436c7165593cde9087c4b4cce3a9fe0c.png,No finding,1
+13745,f3b2d71af1014019e7639088a255e13f.png,Pleural thickening|Lung Opacity|Pleural effusion|Aortic enlargement,0
+13746,7841614f51ed3dfd1c3177a52493c56b.png,Pulmonary fibrosis|Cardiomegaly|Other lesion|Pleural thickening|Aortic enlargement,0
+13747,5b0c168a249db4242e705ede172bed4c.png,No finding,1
+13748,27b61449ef8109cb45c3ba3b7642d746.png,Aortic enlargement,0
+13749,461f7084746581db5b357db019fb987b.png,No finding,1
+13750,753cffb90d19bf31ccd4b49388c40ff0.png,No finding,1
+13751,41981decf2f67490e917ab06a55a677c.png,Lung Opacity|Pulmonary fibrosis|ILD,0
+13752,e8d1151eb83dba0687ebf59cb06dce20.png,No finding,1
+13753,ee58d3793efc6bf1c28ddcc58b01e158.png,No finding,1
+13754,046c58187c0ca245b8b5408ec3575949.png,No finding,1
+13755,64b17a1d9119aa0a4df55d164eae856b.png,Infiltration|Consolidation|Pulmonary fibrosis|Lung Opacity|Other lesion|Pleural effusion|Pleural thickening|Aortic enlargement,0
+13756,91c9a4a1c2b1c36ddf2840c3dc6a755e.png,No finding,1
+13757,eabdcf4a79311551266984e5c41c1fed.png,No finding,1
+13758,55231bc4cc095392e090a72f11ef79c8.png,Cardiomegaly|Aortic enlargement,0
+13759,78715f56ef29b98a057715eaeed60228.png,No finding,1
+13760,542662f9fffebc1b9c7f852a3792e3a9.png,No finding,1
+13761,445bbc094c22d207a7eae08efba0e91c.png,No finding,1
+13762,b1bcc1f4782073f44d051c7a7a6c22e1.png,No finding,1
+13763,106a3da41d2e3d9f508c09b28e8abdaf.png,Atelectasis|Pneumothorax|Other lesion,0
+13764,54402d9750c85f0e06e3d9464f6c2363.png,Pleural thickening|Pulmonary fibrosis,0
+13765,7db7f912633f56d8af5873fd7720ab8d.png,No finding,1
+13766,64bca10d3d3408f0842501ffed22429e.png,No finding,1
+13767,46a92b724080ebd55dfa7ec22975694e.png,No finding,1
+13768,b98a5516dff7eb3d1970212718a14062.png,No finding,1
+13769,582b7c53ef97d1107d527bf23879353f.png,Pleural thickening|Pleural effusion|Calcification|Pulmonary fibrosis,0
+13770,be85b7d55e0ef589729ef4dd6ffc38fb.png,Consolidation|Pulmonary fibrosis|ILD|Pleural thickening|Nodule/Mass|Infiltration,0
+13771,1e04715b878e0cfc89a40e6c23901fcc.png,No finding,1
+13772,8f6b245a7d5570a1f3709c2aade447ee.png,No finding,1
+13773,0c2079e62ddfb06a8a5300cefaa3a970.png,Pulmonary fibrosis|ILD|Lung Opacity|Other lesion|Pleural effusion|Pleural thickening,0
+13774,b3632f480862bd078d918d0a8c1ca6f5.png,No finding,1
+13775,61f807e82c2fe891767a941f48dfac90.png,No finding,1
+13776,73ef14aecb3e3f53d36a01014172f9bf.png,No finding,1
+13777,c002429d774966eacca0e2413295040b.png,No finding,1
+13778,50b13defc76ed84a3b775856bfda2dfb.png,Pleural thickening|Pulmonary fibrosis,0
+13779,0e9452a04ca26497519875dde9fc333c.png,No finding,1
+13780,86984d1ecdd9e307ef38f06eada3e494.png,No finding,1
+13781,0e566069cb507a0581b54998b23e2ece.png,No finding,1
+13782,0423124ca41c984335554a43267db7fa.png,No finding,1
+13783,c4d6eecd144d4d9a850aa0640f21777a.png,No finding,1
+13784,d04f6328a4f309158aabe9818ab3e2eb.png,Cardiomegaly|Pleural thickening,0
+13785,e76af44f2856bf89d69d00d43536cf8c.png,Pleural thickening|Pulmonary fibrosis|Infiltration|Pleural effusion,0
+13786,ac98e2021c6cb0e87d323a712ae1276d.png,Cardiomegaly|Aortic enlargement,0
+13787,dc8893b40134b9e2fc93ab47ee867406.png,No finding,1
+13788,daf7bc9b4bfad7cd4e9c5fc4a03a9992.png,No finding,1
+13789,f06bc45fe2ac2fcbb47e6f5c9e0280d3.png,No finding,1
+13790,62b1f58bd6a88916305c9db2c6c93c53.png,No finding,1
+13791,aa2cbf0789f9b8b761cc08671b875625.png,No finding,1
+13792,fc47195078badf33f2575c3f0db648ab.png,Aortic enlargement,0
+13793,09fcb37b4bf132c373ae0435f13fa059.png,No finding,1
+13794,e58d508f7915d3ada6edb4d88dc1f5f7.png,Cardiomegaly|Aortic enlargement,0
+13795,33942fc734f2e141026c666c1667ca99.png,No finding,1
+13796,46d982e058cc3040b8f5dff7cccd82cb.png,No finding,1
+13797,edb67efb2fbf3647dbf9c4daec79da3f.png,Aortic enlargement,0
+13798,83e7cd905776606181931c7b695db12f.png,Pleural effusion|Pleural thickening|Other lesion|Pulmonary fibrosis,0
+13799,a88295796bf6bc9cec53f76527a08cc4.png,No finding,1
+13800,8ce7f50a6ecc0cba5bc5714f5bb467a2.png,No finding,1
+13801,02222df826791117f315ecb2b58c5b69.png,Pulmonary fibrosis,0
+13802,15fe4d19d1268b630fe977296028a899.png,No finding,1
+13803,29edf816573f3ac23ed50e3c344531a2.png,No finding,1
+13804,62b135c34d01b4af10c39d65939d9d43.png,Infiltration|Lung Opacity|Pleural effusion,0
+13805,d0bccf34602159efb1fb3c3425ff59f2.png,No finding,1
+13806,5e81bf594edfd5481fc4a2fe942bb0a6.png,Cardiomegaly|Aortic enlargement,0
+13807,c3b3f4daf2c0918ba0c7626bf51e9100.png,No finding,1
+13808,6c4b78e706f33af6d0561c990df490b0.png,Cardiomegaly|Other lesion|Pulmonary fibrosis,0
+13809,a909809572f3fe8997c50d5eb30e8d97.png,No finding,1
+13810,b8dbdb44b319385c420cad1d55ee573b.png,No finding,1
+13811,b33a4f3c2dfffd395d40bfefacf9cd3f.png,No finding,1
+13812,2c87f374e45c576583d9ce9a1d8b759f.png,No finding,1
+13813,2a06d515b883f6dd5d9f0eb096d63bdb.png,No finding,1
+13814,5dd4285ef3206e6de7cb4f8c040e88b3.png,No finding,1
+13815,e10bdb3fb82af234cbe963fa597c59f6.png,No finding,1
+13816,02cd1d17763c869ff3d4af5e28539456.png,Pleural thickening|Pleural effusion|Cardiomegaly|Aortic enlargement,0
+13817,41c3934a9d606ac5ab8d0ed35bb4b8c7.png,No finding,1
+13818,c76d814a3b9401891fd35b7027891f2b.png,No finding,1
+13819,3ffaeb3a9eb495e0a59bd62b09bdf319.png,Lung Opacity|Pleural effusion|Aortic enlargement,0
+13820,206f64789c8237b16ef4da5a38d74cdc.png,Pleural thickening|Cardiomegaly|Aortic enlargement,0
+13821,9619fd51cacde00be45411bee20d371d.png,No finding,1
+13822,78c27d8de060d9d0b52142ed0cd9e8ff.png,No finding,1
+13823,09e0a73c91c615581fe4097ce3ae2e09.png,No finding,1
+13824,2c811692ee5993b6611391db3c96a981.png,No finding,1
+13825,7c31bfbc975f78cf311e7bd4d2f4c040.png,No finding,1
+13826,0869979aecc3eab8090a328fcd97dde1.png,No finding,1
+13827,9be61bf3195eb870f577362498d8697c.png,No finding,1
+13828,0577720478795501b0c510ddeb729ecd.png,No finding,1
+13829,d56adcf249d431a30bb2bba9775e0796.png,No finding,1
+13830,645f1b91f9866a5b1029ace92faca75b.png,No finding,1
+13831,f629fda93a2c6bcebb4f6bb2f19ed417.png,No finding,1
+13832,c55e52dc6e7524f6aa036d523ef3fcbc.png,No finding,1
+13833,561c75ae692419d4480e0b5f82ee9a18.png,No finding,1
+13834,d6686ebb032bc9c7329b6644a052f994.png,No finding,1
+13835,5869fc566e6cf8443a772d649887c63e.png,No finding,1
+13836,a22a089ad0b37f398f957fa6533bf03d.png,No finding,1
+13837,d77de97b5f240fd0fcebdb486062467b.png,No finding,1
+13838,77c0b7ebeae94c2c4f61fdaa170522b0.png,No finding,1
+13839,91a8a52b80e1dcde584cb2af32806f57.png,No finding,1
+13840,a9519d3f4ff000976deae0b62bcdddad.png,No finding,1
+13841,bcef4e084e4659f083caac0d90ef68ff.png,No finding,1
+13842,33c856f133a5a726ffc26fe36d451518.png,Pleural thickening|Lung Opacity|Pulmonary fibrosis,0
+13843,01415f1554556009b0eaf0ad7ca360bd.png,No finding,1
+13844,007a5b30bc5eadb13017059543e0b6be.png,No finding,1
+13845,44400b94c2cfe4e0395d1a98cfa7a665.png,No finding,1
+13846,196ed4874930e64f2fceb453533d4d47.png,No finding,1
+13847,3f6d2e54d9af80156dc801c4a5e044a9.png,No finding,1
+13848,6a015e935e17740e22b6b246aed892c5.png,No finding,1
+13849,2a3cc19a099f06f80007cceb75d43bf0.png,No finding,1
+13850,565f761092a0cbc6f85c8195de091343.png,No finding,1
+13851,3fd0af8df0d247cb4d3c4a89fad6936d.png,Cardiomegaly|Aortic enlargement,0
+13852,859f9367aa7f73ecbb9747dca39957ab.png,No finding,1
+13853,7afe7d6b62fec4f70b09008b9ada0fd7.png,No finding,1
+13854,8814fdcb765378b91dc124b3113e34d2.png,No finding,1
+13855,9548c30d5cd9f5051877d7070e1dc33c.png,Pleural thickening|ILD,0
+13856,1c20d41293aef2aadd04e8bfe511cc2c.png,No finding,1
+13857,7b6003f966d8b3ced34c44c6ae7fb842.png,No finding,1
+13858,39c0cec7df2082421f852bc79cb333a1.png,Pleural thickening|Pulmonary fibrosis|Nodule/Mass|Aortic enlargement,0
+13859,423aea36851130d0e2e6c7bf80224378.png,No finding,1
+13860,7237fe007c5cab239011e89137eee3a7.png,Calcification|ILD|Cardiomegaly|Other lesion|Aortic enlargement,0
+13861,e5bf61c95a0127e95f844d52a8400efe.png,No finding,1
+13862,61fccb625931e4bbbb170376b4d94356.png,No finding,1
+13863,9109b615ef6a9f55fac0715716210ede.png,No finding,1
+13864,4e39db9ee3a3fa04e219e4649581708a.png,Pulmonary fibrosis|Other lesion|Nodule/Mass|Pleural thickening|Aortic enlargement,0
+13865,3633b8a8cffa248a55bab4084f4ff5e9.png,Cardiomegaly|Aortic enlargement|Pulmonary fibrosis,0
+13866,acf43f7566b4f7b9fa28c839a48f9d61.png,No finding,1
+13867,145691883baff4df3e4863ca6354c44e.png,Infiltration|Pulmonary fibrosis|ILD|Lung Opacity|Pleural thickening|Atelectasis|Aortic enlargement,0
+13868,0a16dc6491142ff8c7c36f3b3f4ebd02.png,Pleural thickening|ILD,0
+13869,6631f8a0aa875fccaa4b97beef657eee.png,No finding,1
+13870,285b1c1c54cfa6dbd3f43799b889fec9.png,No finding,1
+13871,ddd286ecdcfdf72a50ce99aa01ba74ca.png,No finding,1
+13872,c61b428d550444d2432e4d959c6cdadd.png,No finding,1
+13873,e5f555e04bd705502f7ca5e36e9e845a.png,No finding,1
+13874,5d839d09ab9417b4ea3e6e92961e0747.png,Pleural effusion,0
+13875,ef3f321dd20cafeadceadbb9ecb08b98.png,No finding,1
+13876,9197e0e83503f2ce86c9f1f27278c243.png,No finding,1
+13877,1d98ca466a4d9f4103a5f4b9970f8e90.png,No finding,1
+13878,830d05f396b604388e2d7b68d79a6bbf.png,Pulmonary fibrosis|Cardiomegaly|Nodule/Mass|Other lesion|Pleural thickening|Aortic enlargement,0
+13879,ab0a1c92c467448a9f775ef87079361d.png,No finding,1
+13880,0cf8dd905fb4f2f876eb241bf67add40.png,No finding,1
+13881,b2c97c1426a846ada2d815a4ecc67893.png,Cardiomegaly|Aortic enlargement,0
+13882,2610dca6156baa3f79ad80cf55744959.png,No finding,1
+13883,6da48e8efd5e562f59420387c15eff71.png,No finding,1
+13884,0769ec72a79dcc0ceffb4d418ee5d5e4.png,No finding,1
+13885,1b27aa960f895039e74237f54fd256a2.png,No finding,1
+13886,46149bf87a508338b6813c56b2840d1c.png,No finding,1
+13887,6e3dce43de58cedd6cca477f98b6c94f.png,Cardiomegaly|Lung Opacity|Nodule/Mass|Other lesion,0
+13888,5d7f365c257bcaf7a4a4119e26ead6d6.png,No finding,1
+13889,74d7567d6aef1fd896f3904205d3a2fb.png,No finding,1
+13890,30732ad387fb4f2429a6c5b965910869.png,Pulmonary fibrosis,0
+13891,be1d8a16c137674a880548d82c4f2983.png,No finding,1
+13892,b0d240b51e6f6bd1c138e62aebb14b07.png,No finding,1
+13893,20d962ccef456bf181f80843b2bc462e.png,No finding,1
+13894,27bcde2e800c383cfb9c021b0817202c.png,No finding,1
+13895,bd3fe876153eeddad8bab49b129ea081.png,Calcification|Consolidation|Pulmonary fibrosis|Lung Opacity|Nodule/Mass|Pleural effusion|Pleural thickening,0
+13896,1aaab6baefab214419016ad2f3175120.png,Cardiomegaly|Pleural thickening|Aortic enlargement,0
+13897,cb7a6b61517029d102fd3cbfcdcf0fbe.png,No finding,1
+13898,e034d4e19f562e61b29533f222ec9600.png,Pleural thickening|Cardiomegaly|Aortic enlargement,0
+13899,d73add6550804e3da302f96e50e463af.png,No finding,1
+13900,ba11612764fbdabe173336d825c4c9f3.png,No finding,1
+13901,2d524b03db10432b9e13cd6f98fdaafa.png,No finding,1
+13902,d936f8115e8be8a46c5933decd3b6b94.png,Pulmonary fibrosis|Cardiomegaly|Lung Opacity|Pleural effusion|Pleural thickening|Aortic enlargement,0
+13903,e89790c02bea2b743ea1bf4ee5d7339b.png,No finding,1
+13904,d78482526bef549cc51d8f7f86d4da9c.png,No finding,1
+13905,d0c26a940c582594036c08b85b75e541.png,No finding,1
+13906,8794eea4b84bc93cdf786327e3e606f6.png,Infiltration|Pulmonary fibrosis|Pleural effusion|Pleural thickening|Atelectasis,0
+13907,afffa24d96ea33877a402f38a0283a71.png,No finding,1
+13908,b147060dd3479892668f7a5e1a2e0cd1.png,No finding,1
+13909,ec47671f5f99c48fe542b3b9b237a721.png,No finding,1
+13910,b83563194baedb0f4cfd96e3b50e5f9e.png,No finding,1
+13911,14cff684e52997d546e0856b5ce82f39.png,No finding,1
+13912,0da97c2c8c5192e678faf9290f25d5c0.png,Cardiomegaly|Aortic enlargement,0
+13913,1e1dcf1ea1d974a5fea81b7616a11723.png,Consolidation|Cardiomegaly|Pulmonary fibrosis|ILD,0
+13914,72e37a321e25a5082cbb0907b90047ae.png,No finding,1
+13915,63f40a011824d0ee7237bd302c030910.png,No finding,1
+13916,8bf422b64e5a94fe9aeea8193e556c3f.png,No finding,1
+13917,01abaf7c7b831bba7403d08f56e58a94.png,No finding,1
+13918,92ada8335279bc3469735f4241d743a1.png,No finding,1
+13919,59ab79bb1fce73184425a6572169999e.png,No finding,1
+13920,41a95ec8dafbc08bf62528825bff13c5.png,No finding,1
+13921,1b8bb721f6adf077404509d5ba07033f.png,No finding,1
+13922,427db646765e399ae43ccd98c50effdc.png,Pulmonary fibrosis|Cardiomegaly|Lung Opacity|Pleural effusion|Pleural thickening,0
+13923,63e7baab5f49770ea94dcbbb223b6cda.png,No finding,1
+13924,0acad710903d144db1ed35a1fee56993.png,No finding,1
+13925,5d5c6bef270479bc5f71c5239f5e6e17.png,No finding,1
+13926,613fd7f3a8b48248d4027c90a414ff9a.png,Calcification|Cardiomegaly|Lung Opacity|Other lesion|Infiltration,0
+13927,b204e683dc69001ec21be4f2dcf5bd21.png,No finding,1
+13928,d7729a1d5bfae9cc59067cecbfcc8bd5.png,No finding,1
+13929,f591f6e017545ab779d1e88735340128.png,Infiltration|Pulmonary fibrosis|Cardiomegaly|Other lesion|Pleural effusion|Pleural thickening|Atelectasis|Aortic enlargement,0
+13930,18cf33473f5d32b6af44413f43b535a1.png,No finding,1
+13931,3d96fc00b9f124888f8073ef5e08b566.png,No finding,1
+13932,ee7cc34733914fd5924eb5d75a27fba3.png,Pleural thickening|Aortic enlargement|Pulmonary fibrosis,0
+13933,dc16611b33711249ce1605b2d7148bc0.png,Pulmonary fibrosis|ILD|Lung Opacity|Nodule/Mass|Aortic enlargement,0
+13934,c02b0da58786db639d7b15d7249caa6c.png,No finding,1
+13935,bf67bbd3530ec0e16297cd078c7043d5.png,No finding,1
+13936,48e1b4c86146132c1e3b514ab99050d9.png,Pulmonary fibrosis|Cardiomegaly|Lung Opacity|Other lesion|Aortic enlargement,0
+13937,90dcff38c040287173fa24f87da5270b.png,No finding,1
+13938,517f3939a9628db4475c2c0ae39b2d1b.png,Calcification|Pulmonary fibrosis|Cardiomegaly|Other lesion|Pleural thickening|Aortic enlargement,0
+13939,bb315b4bc113c0506a9e24593cb06a6b.png,Cardiomegaly|Aortic enlargement,0
+13940,59a3b8e835e1468ba834b05256198d4b.png,Cardiomegaly,0
+13941,e42cb49246d4e0215129cb3bb72cbee7.png,No finding,1
+13942,5f9656fef011ff6876d88f8042a1ec7c.png,No finding,1
+13943,365f94e8ed81d2e9b8c134cf8bfdf21e.png,No finding,1
+13944,503c11e610d2043d0934e616e72453e8.png,No finding,1
+13945,e10ec027649f41e4c906ca0fb9063372.png,No finding,1
+13946,d46d82b7a42f6c95c134f2732b003c3e.png,No finding,1
+13947,231eceaec9e603e7cdb2021bd2ccbe02.png,Other lesion|Nodule/Mass|Pulmonary fibrosis,0
+13948,0a2d01ecb9e01cf972c1e1d31ccacb98.png,Cardiomegaly|Aortic enlargement,0
+13949,462156df95a6f84ceffd8cded5c6b875.png,No finding,1
+13950,d4a8a32d495cd0d49ec8ad2eee3afa3e.png,No finding,1
+13951,f6b575c538dee65217877a75427f6cf7.png,No finding,1
+13952,2f26aa8a91c030eab136daa53d5027ed.png,No finding,1
+13953,7f965a82e68c0c4fac92c34dd1429d56.png,No finding,1
+13954,a1359dd18cd39f353c040139db429e22.png,No finding,1
+13955,945eb0f9c575a45a148e7e64f7cf402a.png,No finding,1
+13956,9b27b45920317438ac2f866166a3e9f2.png,No finding,1
+13957,4781e60d7a5a6b39d46d14be55ea05f5.png,No finding,1
+13958,4d99ae31fa9f6c2fbc2df1d76e61c5e9.png,No finding,1
+13959,a9792c58220c876e247dedda32513253.png,No finding,1
+13960,af4f5a12b32b5d76951f3994cd7e9ad6.png,Pulmonary fibrosis|ILD|Lung Opacity|Nodule/Mass|Pleural effusion|Pleural thickening,0
+13961,9def018e27028f4b11403cd6ad0d4691.png,Aortic enlargement,0
+13962,fe9e2c89c75a48f88d5d7274ff939b31.png,Calcification|Pulmonary fibrosis|Cardiomegaly|Other lesion|Nodule/Mass|Pleural thickening|Aortic enlargement,0
+13963,b359c14158afff8ef7d00c59d2211ebc.png,No finding,1
+13964,cad576481adca7522abedfab6091cea1.png,No finding,1
+13965,4e7d08c8d0ad462a63427ad7c71b84fc.png,No finding,1
+13966,3f0621a867476fca9f51e5eaec666aca.png,Cardiomegaly|Pulmonary fibrosis,0
+13967,56e004d50c71eb7952e1e961853fa909.png,No finding,1
+13968,943bc9aae1cda9b7a0205f79cab04dd2.png,No finding,1
+13969,335e60bc5c466210bd4f928d86c76e55.png,No finding,1
+13970,961048bee50f5695e5c0e5c2ff63a3bc.png,No finding,1
+13971,8509220591d4f44b65e5762ddf463d31.png,No finding,1
+13972,6a047bc525812f5fb0fb8bc57e246709.png,No finding,1
+13973,db14c5746cc1525384f3865b4a20c7b2.png,Pleural thickening|Aortic enlargement,0
+13974,b8cf3b0d5faac4be08620f5f68df30b9.png,No finding,1
+13975,c8f88ea5c300596fe6c9e8fd15b9c3bf.png,No finding,1
+13976,ef41aa7d4bd4f4aa3b83893fba44cb47.png,No finding,1
+13977,6e2c5ac0b017ee374840d5ad3aba3629.png,Lung Opacity|Aortic enlargement|Pulmonary fibrosis,0
+13978,51a8a2d913f12d2b39d9fe43fe27aa2d.png,Cardiomegaly|Aortic enlargement,0
+13979,85bf2bce1d8ac45002dee50ffa3e014a.png,No finding,1
+13980,2b729047edae55396dd5a9940b858137.png,No finding,1
+13981,acee6874ca0893a1f4d3692a7c08013b.png,No finding,1
+13982,22fe47bc014f9b0a7ef10ce297f2819b.png,No finding,1
+13983,bb19d50ca040bfb29c1d8f52de50b7c3.png,No finding,1
+13984,997fca43b97287e53c551c3d4753edcb.png,Lung Opacity|Nodule/Mass|Other lesion,0
+13985,d8985fce9c13cc806c68bd6b98843a8f.png,No finding,1
+13986,f4fcacd5c7e9d885ca45382b35797561.png,No finding,1
+13987,e7375b4dfc336c7b166b688f72d86b34.png,Pulmonary fibrosis|Cardiomegaly|Pleural effusion|Pleural thickening|Aortic enlargement,0
+13988,5cc47ace1265e197b4873d762db8abb0.png,No finding,1
+13989,39394c845e092472bfff78c26ce9feb4.png,Cardiomegaly|Aortic enlargement,0
+13990,7324c001e2512d3ea9197b0151c6c1b0.png,Cardiomegaly|Pleural thickening|Other lesion|Aortic enlargement,0
+13991,a33bfa55617af48bde1b1aa517a307b7.png,No finding,1
+13992,9a2c954f3fa466172e9e03a4014800f4.png,No finding,1
+13993,c47b6a4a8fe719b12ecb764d34fa0fd8.png,No finding,1
+13994,f2cbad33f407df585912df819234ee51.png,No finding,1
+13995,f7065f12ad4db385bd52c811a39cb493.png,No finding,1
+13996,fe9ae553a2fa76cba207ebd4b9b0cddb.png,Pleural thickening|Aortic enlargement|Nodule/Mass|Pleural effusion,0
+13997,5b09a7202874a8a9af374641291e7b5b.png,No finding,1
+13998,55e2aa39a7a2772cc85016ecd728b135.png,No finding,1
+13999,b072ef5a1a3ad1d8fc0a22eab743a980.png,No finding,1
